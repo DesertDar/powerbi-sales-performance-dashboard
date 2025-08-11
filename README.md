@@ -18,8 +18,9 @@
 - DAX measures: `Total Revenue`, `Total Units Sold`, `Average Order Value`
 
 ## Screenshots
-![Overview](assets/Google Sheets Dashboard.png)
-![Overview](assets/PowerBI Sales Performance Dashboard.png)
+![Dashboard Overview](<assets/GoogleSheetsDashboard.png>)
+
+![Dashboard Overview](<assets/PowerBISalesPerformanceDashboard.png>)
 
 ## File
 - `PowerBI_SalesPerformance.pbix` (open in Power BI Desktop)
