@@ -23,6 +23,6 @@
 ![Dashboard Overview](<assets/PowerBISalesPerformanceDashboard.png>)
 
 ## File
-- `PowerBI_SalesPerformance.pbix` (open in Power BI Desktop)
+- `SalesAndReturnsSample.pbix` (open in Power BI Desktop)
 
 *If you want the interactive version, contact me for a live walkthrough or a hosted link.*
